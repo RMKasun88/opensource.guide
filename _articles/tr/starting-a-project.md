@@ -3,12 +3,6 @@ lang: tr
 title: Açık Kaynaklı bir Projeye Başlamak
 description: Açık kaynak dünyası hakkında daha fazla bilgi edinin ve kendinizi proje başlatmaya hazırlayın.
 class: beginners
-toc:
-  the-what-and-why-of-open-source: Açık kaynağın nediri ve nedeni
-  should-i-launch-my-own-open-source-project: Kendi açık kaynak projemi başlatmalı mıyım?
-  launching-your-own-open-source-project: Kendi açık kaynak projenizi başlatmak
-  naming-and-branding-your-project: Projenizi isimlendirme ve markalama
-  your-pre-launch-checklist: Lansman öncesi kontrol listeniz
 order: 2
 image: "/assets/images/cards/beginner.png"
 related:
@@ -44,7 +38,7 @@ Bir kişinin veya örgütün bir projeyi açmak istemesinin [birçok nedeni](htt
 
 * **Adapte etme ve yeniden tanımlama:** Açık kaynaklı projeler herkes tarafından herhangi bir amaç için kullanılabilir. İnsanlar başka şeyler yapmak için bile kullanabilirler. Örneğin [WordPress](https://github.com/WordPress), [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md) adı verilen mevcut bir projenin alt dalı olarak başladı.
 
-* **Şeffaflık:** Açık kaynaklı bir projeyi herkes hata veya tutarsızlık açısından inceleyebilir. Şeffaflık, [Bulgaristan](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) veya [ABD](https://sourcecode.cio.gov/) gibi develetler, bankacılık veya sağlık gibi sıkı kurallara bağlı endüstriler ve [Let's Encrypt](https://github.com/letsencrypt) gibi güvenlik yazılımları için önemlidir.
+* **Şeffaflık:** Açık kaynaklı bir projeyi herkes hata veya tutarsızlık açısından inceleyebilir. Şeffaflık, [Bulgaristan](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) veya [ABD](https://www.cio.gov/2016/08/11/peoples-code.html) gibi develetler, bankacılık veya sağlık gibi sıkı kurallara bağlı endüstriler ve [Let's Encrypt](https://github.com/letsencrypt) gibi güvenlik yazılımları için önemlidir.
 
 Açık kaynak sadece yazılım için değil. Veri kümelerinden kitaplara kadar her şeyi açık kaynak koduyla açabilirsiniz. Açık kaynak başka neler yapabileceğiniz hakkında fikir edinmek için [GitHub Explore](https://github.com/explore)'a göz atın.
 
